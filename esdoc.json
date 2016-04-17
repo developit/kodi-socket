@@ -1,4 +1,5 @@
 {
+	"index": "./README.md",
 	"source": "./src",
 	"destination": "./doc"
 }
